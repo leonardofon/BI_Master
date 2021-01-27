@@ -1,6 +1,6 @@
 <!-- antes de enviar a versão final, solicitamos que todos os comentários, colocados para orientação ao aluno, sejam removidos do arquivo -->
 
-# Título do Trabalho
+# Otimização do sequenciamento da interligação e entrada em operação de poços em projetos de revitalização de campos maduros através da utilização de Algoritmos Genéticos
 
 #### Aluno: [Leonardo Fonseca](https://github.com/leonrdofon).
 #### Orientador(/a/es/as): [Ana Carolina Alves Abreu](https://github.com/acarolina1612)  
